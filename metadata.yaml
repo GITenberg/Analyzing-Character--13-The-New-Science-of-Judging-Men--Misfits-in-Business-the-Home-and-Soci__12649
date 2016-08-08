@@ -1,0 +1,30 @@
+_repo: Analyzing-Character--13-The-New-Science-of-Judging-Men--Misfits-in-Business-the-Home-and-Soci__12649
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Blackford, Katherine M. H. (Katherine Melvina Huntsinger)
+    birthdate: 1875
+    deathdate: 1916
+    gutenberg_agent_id: '4476'
+    url: http://www.gutenberg.org/2009/agents/4476
+  - agent_name: Newcomb, Arthur
+    birthdate: 1873
+    gutenberg_agent_id: '4505'
+    url: http://www.gutenberg.org/2009/agents/4505
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Characters and characteristics'
+- !lcsh 'Success'
+- GITenberg
+title: "Analyzing Character\r\nThe New Science of Judging Men; Misfits in Business,\
+  \ the Home and Social Life"
+url: http://www.gutenberg.org/ebooks/12649
